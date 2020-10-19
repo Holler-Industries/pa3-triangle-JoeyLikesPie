@@ -1,6 +1,12 @@
 package com.example.project;
 import java.lang.Math;
-
+/*
+Joey Michelini
+AP Computer Science A
+10/19/2020
+This class is intended to simulate a triangle, with specific side lengths and the ability
+to calculate area and perimeter.
+*/
 public class Triangle {
     private double x0;
     private double y0;

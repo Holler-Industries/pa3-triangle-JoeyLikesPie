@@ -1,5 +1,10 @@
 package com.example.project;
-
+/*
+Joey Michelini
+AP Computer Science A
+10/19/2020
+This class is intended to test my Triangle class.
+*/
 public class TriangleTester {
 
     public static void main(String[] args) {
